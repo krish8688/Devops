@@ -1,7 +1,7 @@
 echo "Hello World"
 
 
-echo " Please enter your choice ADD or SUB:$1"
+echo " Please enter your choice ADD or SUB"
 
 if ["$s1" == "ADD"]
 then
