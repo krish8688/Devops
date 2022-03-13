@@ -4,3 +4,4 @@ echo "Hello Workd"
 
 ./nestedscript.sh  Saikrishna
 
+exit
