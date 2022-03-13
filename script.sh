@@ -1,13 +1,13 @@
 echo "Hello World"
 
 
-echo " Please enter your choice ADD or SUB: $1"
+echo " Please enter your choice ADD or SUB:$1"
 
 if ["$s1" == "ADD"]
 then
   echo "You are in add loop "
   Total =3+2
-  echo ":$Total"
+  echo ": $Total"
   
 fi
 
