@@ -3,7 +3,7 @@ echo "Hello World"
 
 echo " Please enter your choice ADD or SUB"
 
-if ["$s1" == "ADD"]
+if [$s1 == "ADD"]
 then
   echo "You are in add loop "
   Total =3+2
