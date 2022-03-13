@@ -1,4 +1,4 @@
-echo "Hello Workd"
+echo "Hello World"
 
 #ping www.google.com
 
