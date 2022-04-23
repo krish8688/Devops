@@ -16,6 +16,6 @@ echo " you are in sub loop"
 Total = 3-2
 echo ":$Total"
 
-./nestedscript.sh  Saikrishna
+#./nestedscript.sh  Saikrishna
 
 exit
